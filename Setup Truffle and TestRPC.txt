@@ -1,0 +1,15 @@
+1| Install Chocolatey via: https://chocolatey.org/
+2| Use Choco to install windows tools: Open a PowerShell prompt as Administrator
+3| Install Nodejs: choco install nodejs.install -y
+4| Install Git: choco install git -y
+5| Install npm: npm install -g npm
+6| Install Windows Build Tools: npm install -g –production windows-build-tools
+7| Install TestRPC: npm install -g ethereumjs-testrpc
+8| Install Truffle: npm install -g truffle
+
+9| If you need and Code Editor IDE install one of the following:
+   install Visual Studio Code: choco install VisualStudioCode -y
+   or
+   Sublime Text: https://www.sublimetext.com/3
+   
+   These are the basics!!!
